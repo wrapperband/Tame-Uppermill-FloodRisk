@@ -52,7 +52,7 @@ This chart shows the maximum level per day.
 
 ## Tame Change in Average river Levels per day, over 30 Days.  
 
-![alt tag](charts/charts/TameAvLevelPYear.png)  
+![alt tag](charts/TameAvLevelPMonth.png)  
 
 
 ## Tame Change in Average river Levels per day, over 300 Days.  
