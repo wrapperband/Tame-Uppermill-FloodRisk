@@ -1,7 +1,7 @@
 # Tame-Uppermill-FloodRisk  
 Analysis of Tame river Uppermill river level Gauge readings  
 
-Guage data for Uppermill Tame river was obtained from :  
+Gauge data for Uppermill Tame river was obtained from :  
 
 https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
 
@@ -13,6 +13,9 @@ This data contains an average level for the day and a maximum and minimum level 
 Analysis shows the change in level per day has slightly decreased since 2012.
 
 Yet, the level of floods has increased (apart from one outlier flood in 2013) ....
+
+
+The data analysed is from daily averages - it underestimates the rate of change. This chart shows the raw change for one day.
 
 
 
@@ -49,3 +52,11 @@ This chart shows the maximum level per day.
 
 
 
+**Tame Change in level 17/3/2019
+
+![alt tag](charts/TameRawData17-3-2019.png)  
+
+
+
+Ref 1 : ood-warning-information.service.gov.uk/station/5143
+Ref 2 :  https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
