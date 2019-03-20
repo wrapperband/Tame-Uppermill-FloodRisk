@@ -20,6 +20,12 @@ Yet, the level of floods has increased (apart from one outlier flood in 2013) ..
 
 This proves beyond all doubt that less water is causing the same floods height levels.  Remember - this is an analysis of the Average level - not the Maximum level ........
 
+If the reduction in river level change per day could be less rain or the effect of drains,
+
+1. These do not ameliorate  the speed of build up of water and maximum flood height
+2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
+
+
 ****Results and charts :
 
 
