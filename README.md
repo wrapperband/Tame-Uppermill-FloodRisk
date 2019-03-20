@@ -8,7 +8,7 @@ https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5
 This data contains an average level for the day and a maximum and minimum level for the day.  
 
 
-****Observations :
+###Observations :
 
 Analysis shows the change in level per day has slightly decreased since 2012.
 
@@ -19,7 +19,7 @@ The data analysed is from daily averages - it underestimates the rate of change.
 
 
 
-****Conclusion :
+###Conclusion :
 
 This proves beyond all doubt that less water is causing the same floods height levels.  Remember - this is an analysis of the Average level - not the Maximum level ........
 
@@ -29,34 +29,35 @@ If the reduction in river level change per day could be less rain or the effect 
 2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
 
 
-****Results and charts :
+####Results and charts :
 
 
 This chart shows the maximum level per day.  
 
 
-**Tame Maximum Levels per day, 90cm = Flood risk  
+##Tame Maximum Levels per day, 90cm = Flood risk  
 
 ![alt tag](charts/TameMaxLevelPDay.png)  
 
 
-**Tame Change in Average river Levels per day.  
+##Tame Change in Average river Levels per day.  
 
 ![alt tag](charts/TameAvLevelChangePDay.png)  
 
 
 
-**Tame Change in Average river Levels per day, over 7 Days.  
+##Tame Change in Average river Levels per day, over 7 Days.  
 
 ![alt tag](charts/TameAvLevelPDay7Days.png)  
 
 
 
-**Tame Change in level 17/3/2019
+##Tame Change in level 17/3/2019
 
 ![alt tag](charts/TameRawData17-3-2019.png)  
 
 
 
-Ref 1 : ood-warning-information.service.gov.uk/station/5143
+
+Ref 1 : https://flood-warning-information.service.gov.uk/station/5143  
 Ref 2 :  https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
