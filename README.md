@@ -25,16 +25,19 @@ The Flood data for 17/3/2019 raw data was obtained Government flood warning info
 The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.
 
 
-
 ### Observations :
 
 The maximum river level shows there are numerous flood level event already a year. These flood levels are consistently much higher than the preceding level, i.e. are of a semi flash flood type. There is a close relation to the rain and river level, i.e. little buffer or soak to the rain fall. 
 
 Analysis shows the change in river level per day has slightly decreased since 2012.  Yet, the level of floods has increased (apart from one outlier flood in 2013) ....   
 
-The long term charts shows the significant numbers of flood conditions of the Tame at Uppermill per year.
+The long term charts shows the significant numbers of flood conditions of the Tame. There have been 5 days when levels over 89cm in 8 years.
 
-The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent.
+The recent flood condition of the 17/3/2019 was the latest. 
+
+The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent high.
+
+Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indecating increased run off speed.
 
 The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].
 
@@ -47,10 +50,14 @@ If the reduction in river level change per day could be less rain or the effect 
 3. If drought is the cause then if rainfall levels returned to normal there would be more floods.
 
 
-#### Tame Change in level 17/3/2019
+#### Tame river, change in level during 17/3/2019 flood level incident
 
 ![alt tag](charts/TameRawData17-3-2019.png)  
 
+
+#### Tame River - Number of days at each level  
+
+![alt tag](charts/TameDaysAtLevel.png)  
 
 
 ### Conclusions :
