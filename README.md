@@ -13,6 +13,8 @@ Raw data from the Tame may be examined, (once it is released) to measure any inc
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.
 
+The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, which means flooding events of greater magnitude are inevitable.
+
 
 ### Method
 
@@ -111,9 +113,22 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/TameAvLevelPYear.png)  
 
 
-#### Tame Change in Average river Levels per day, over 300 Days.  
+#### North West England Rainfall (mm) per Month.  
 
 ![alt tag](charts/RainFallNorthWest-2012-2019.png)
+
+
+#### Number of rainfall events over 200 mm per Month 1910 - 2019.  
+
+![alt tag](charts/RainFallNorthWest-1910-2019-200mm.png)
+
+
+#### Number of rainfall events over 150 mm per Month 1910 - 2019.  
+
+![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)
+
+
+
 
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
