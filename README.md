@@ -13,7 +13,7 @@ Raw data from the Tame may be examined, (once it is released) to measure any inc
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.
 
-The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, which means flooding events of greater magnitude are inevitable.
+The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
 
 
 ### Method
@@ -51,7 +51,7 @@ If the reduction in river level change per day could be less rain or the effect 
 2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
 3. If drought is the cause then if rainfall levels returned to normal there would be more floods.
 
-The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding responce from relatively minor, or at least usual, variations iin rain fall.
+The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
 
 
 #### Tame river, change in level during 17/3/2019 flood level incident
@@ -59,7 +59,7 @@ The Analysis of North West rainfall per month from 2012 to 2019 also shows that 
 ![alt tag](charts/TameRawData17-3-2019.png)  
 
 
-#### Tame River - Number of days at each level  
+#### Tame River - Number of days at each level  2012 - 2019
 
 ![alt tag](charts/TameDaysAtLevel.png)  
 
