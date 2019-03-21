@@ -49,6 +49,8 @@ If the reduction in river level change per day could be less rain or the effect 
 2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
 3. If drought is the cause then if rainfall levels returned to normal there would be more floods.
 
+The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding responce from relatively minor, or at least usual, variations iin rain fall.
+
 
 #### Tame river, change in level during 17/3/2019 flood level incident
 
@@ -71,6 +73,8 @@ Climate change should have reduced the level of floods, but hasn't. However, it,
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase. 
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.
+
+In particular, it would be advantageous to count historic rainfall values of over 150 mm to further estimate the flood risk.
 
 Data could also be cross related to developments, however requests for development data showed that is not made available..
 
@@ -107,7 +111,9 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/TameAvLevelPYear.png)  
 
 
+#### Tame Change in Average river Levels per day, over 300 Days.  
 
+![alt tag](charts/RainFallNorthWest-2012-2019.png)
 
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
