@@ -16,11 +16,11 @@ It may also be possible to extract more information from the daily data by cross
 
 ### Method
 
-Gauge data for Uppermill Tame river was obtained from :   Ref1 : riverlevels.uk
+Gauge data for Uppermill Tame river was obtained from :   [Ref1] : riverlevels.uk
 
 This data contains an average level for the day and a maximum and minimum level for the day.  
 
-The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. 
+The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]
 
 The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.
 
@@ -103,5 +103,5 @@ This chart shows the maximum river levels per day.
 
 
 
-Ref 1 : https://flood-warning-information.service.gov.uk/station/5143  
-Ref 2 :  https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
+[Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
+[Ref2] :  https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
