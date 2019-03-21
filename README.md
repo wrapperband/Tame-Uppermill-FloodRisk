@@ -36,7 +36,7 @@ The long term charts shows the significant numbers of flood conditions of the Ta
 
 The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent.
 
-The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  Ref1.
+The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].
 
 The Daily level chart for 20th March 2019 shows near vertical increase in river level. This occurred, during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.
 
