@@ -26,6 +26,8 @@ The Flood data for 17/3/2019 raw data was obtained Government flood warning info
 
 The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.
 
+Rain data from [Ref3] was analysed and compared with flood levels.
+
 
 ### Observations :
 
@@ -43,7 +45,7 @@ Analysis of the number of flood conditions shows the river level is generally lo
 
 The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].
 
-The Daily level chart for 20th March 2019 shows near vertical increase in river level. This occurred, during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.
+The Daily level chart for 20th March 2019 shows near vertical increase in river level. This flood was observed to occur during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.
 
 If the reduction in river level change per day could be less rain or the effect of drains, or drought.
 
@@ -132,4 +134,5 @@ This chart shows the maximum river levels per day.
 
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
-[Ref2] :  https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
+[Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
+[Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered
