@@ -41,7 +41,7 @@ The recent flood condition of the 17/3/2019 was the latest.
 
 The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent high.
 
-Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indecating increased run off speed.
+Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indicating increased run off speed.
 
 The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].
 
@@ -70,13 +70,15 @@ The Analysis of North West rainfall per month from 2012 to 2019 also shows that 
 
 It is very concerned to observe that most of the new "Maximum river level recorded events" have happened since December 2015.
 
-From 2012 - 2016 there was only 1 highest river level recorded event at Uppermill.
+From 2012 - 2016 there was only 1 highest river level recorded event at Uppermill.  
 
 From 2016 there are 8 events above that level, 3 being highest recorded levels.
 
 This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.
 
 Climate change should have reduced the level of floods, but hasn't. However, it, or variations in weather patterns, do change the frequency of floods. 
+
+The height of floods is historically high, whilst rainfall and level are historically normal to low.
 
 ### Further work : 
 
