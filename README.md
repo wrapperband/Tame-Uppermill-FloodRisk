@@ -114,17 +114,17 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/TameAvLevelPYear.png)  
 
 
-#### North West England Rainfall (mm) per Month.   
+#### North West England Rainfall level (mm) per Month.   
 
 ![alt tag](charts/RainFallNorthWest-2012-2019.png)  
 
 
-#### Number of North West England with rainfall over 200 mm per Month from 1910 - 2019.  
+#### Number of Months in North West England with rainfall over 200 mm per Month from 1910 - 2019.  
 
 ![alt tag](charts/RainFallNorthWest-1910-2019-200mm.png)   
 
 
-#### Number of North West England  with rainfall over 150 mm per Month from 1910 - 2019.    
+#### Number of Months in North West England  with rainfall over 150 mm per Month from 1910 - 2019.    
 
 ![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
