@@ -78,9 +78,8 @@ Raw data from the Tame may be examined, once it is released, to measure any incr
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.
 
-In particular, it would be advantageous to count historic rainfall values of over 150 mm to further estimate the flood risk.
 
-Data could also be cross related to developments, however requests for development data showed that is not made available..
+Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..
 
 
 
