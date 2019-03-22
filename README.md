@@ -74,12 +74,12 @@ Climate change should have reduced the level of floods, but hasn't. However, it,
 
 ### Further work : 
 
-Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase. 
+Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
 
-It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.
+It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.  
 
 
-Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..
+Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
 
 
 
@@ -114,19 +114,19 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/TameAvLevelPYear.png)  
 
 
-#### North West England Rainfall (mm) per Month.  
+#### North West England Rainfall (mm) per Month.   
 
-![alt tag](charts/RainFallNorthWest-2012-2019.png)
-
-
-#### Number of rainfall events over 200 mm per Month 1910 - 2019.  
-
-![alt tag](charts/RainFallNorthWest-1910-2019-200mm.png)
+![alt tag](charts/RainFallNorthWest-2012-2019.png)  
 
 
-#### Number of rainfall events over 150 mm per Month 1910 - 2019.  
+#### Number of North West England with rainfall over 200 mm per Month from 1910 - 2019.  
 
-![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)
+![alt tag](charts/RainFallNorthWest-1910-2019-200mm.png)   
+
+
+#### Number of North West England  with rainfall over 150 mm per Month from 1910 - 2019.    
+
+![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
 
@@ -134,4 +134,4 @@ This chart shows the maximum river levels per day.
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
 [Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
-[Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered
+[Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
