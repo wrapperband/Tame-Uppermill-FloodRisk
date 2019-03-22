@@ -68,6 +68,12 @@ The Analysis of North West rainfall per month from 2012 to 2019 also shows that 
 
 ### Conclusions :
 
+It is very concerned to observe that most of the new "Maximum river level recorded events" have happened since December 2015.
+
+From 2012 - 2016 there was only 1 highest river level recorded event at Uppermill.
+
+From 2016 there are 8 events above that level, 3 being highest recorded levels.
+
 This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.
 
 Climate change should have reduced the level of floods, but hasn't. However, it, or variations in weather patterns, do change the frequency of floods. 
