@@ -62,6 +62,8 @@ If the reduction in river level change per day could be less rain or the effect 
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
 
+The rate of change chart shows generally an increase in level of rate of flood increase over the period 2012 - 2019, consistent with loss of soak.
+
 
 #### Tame river, change in level during 17/3/2019 flood level incident
 
@@ -71,6 +73,12 @@ The Analysis of North West rainfall per month from 2012 to 2019 also shows that 
 #### Tame River - Number of days at each level  2012 - 2019
 
 ![alt tag](charts/TameDaysAtLevel.png)  
+
+
+#### Tame River - Rate of change of level
+
+![alt tag](charts/TameMaxRateofChangePWeek.png)  
+
 
 
 ### Conclusions :
