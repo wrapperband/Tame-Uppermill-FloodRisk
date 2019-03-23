@@ -16,6 +16,13 @@ It may also be possible to extract more information from the daily data by cross
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
 
 
+The "spurious" massive event between the 16th and 18th March 2013 - where flood levels were measure at >3000 cm appears to be a real event with real very high levels of flooding. Whist the gauge may have over estimated the level, it appears well above previous highs down stream at Wagon gauge at Mossley with 70 cm above the flood level.
+
+The river authority need to explain what caused the error, if there was one and what flood level happened, as it is the largest event seen while monitoring has taken place..
+
+Because this is a real event, the Flood risk situation at Uppermill and Mossley is worse than previously reported i.e. inevitable, just a matter of time.
+
+
 ### Method
 
 Gauge data for Uppermill Tame river was obtained from :   [Ref1] : riverlevels.uk
