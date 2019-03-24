@@ -152,8 +152,21 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
+### Flood images
+
+#### River Tame at Uppermill getting very high 2012. Picture: Stuart Littleford.
+
+![alt tag](FloodImages/RiverTameatUppermill-2012.jpg) 
 
 
+#### River Tame at Proposed Diggle school site 2015. 
+
+![alt tag](FloodImages/saddleworth_school_diggle_cross_field_flooding_26_12_2015.jpg) 
+
+
+#### River Tame at between  Diggle and Mossley flooded 2012. Picture: Stuart Littleford.
+
+![alt tag](FloodImages/Well-i-hole-Farm-campsite-is-evacuated-and-animals-rescued.Pic.StuartLittleford-2012.jpg) 
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
 [Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
