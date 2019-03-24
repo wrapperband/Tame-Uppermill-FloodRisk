@@ -58,6 +58,9 @@ If the reduction in river level change per day could be less rain or the effect 
 
 1. These do not ameliorate  the speed of build up of water and maximum flood height
 2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
+
+see [Ref4] Where flood was caused by blocked drains.
+
 3. If drought is the cause then if rainfall levels returned to normal there would be more floods.
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
@@ -171,3 +174,4 @@ This chart shows the maximum river levels per day.
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
 [Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
+[Ref4] : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
