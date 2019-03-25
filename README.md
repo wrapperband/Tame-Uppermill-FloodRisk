@@ -22,6 +22,11 @@ The river authority need to explain what caused the error, if there was one and 
 
 Because this is a real event, the Flood risk situation at Uppermill and Mossley is worse than previously reported i.e. inevitable, just a matter of time.
 
+#### Planner should be taking action as designated by the Environment Agency report [Ref6]
+
+    11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.
+
+
 
 ### Method
 
@@ -176,3 +181,4 @@ This chart shows the maximum river levels per day.
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
 [Ref4] : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
 [Ref5] : Mossley Flood Risk : https://github.com/wrapperband/Tame-Mossley-FloodRisk
+[Ref6] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf
