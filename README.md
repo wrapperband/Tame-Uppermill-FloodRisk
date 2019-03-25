@@ -1,89 +1,89 @@
 # Tame-Uppermill-FloodRisk  
 
 
-## Analysis of Tame river Uppermill river level Gauge readings  
+## Analysis of Tame river Uppermill river level Gauge readings   
 
-### Summery
+### Summery  
 
-The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to indicate danger.
+The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to indicate danger.  
 
-The daily chart for 17/3/2019 shows the problem with speed of run off, with the steepness of the increase in level. Further work is required to quantify and ameliorate that risk.
+The daily chart for 17/3/2019 shows the problem with speed of run off, with the steepness of the increase in level. Further work is required to quantify and ameliorate that risk.  
 
-Raw data from the Tame may be examined, (once it is released) to measure any increase in rate of level increase. 
+Raw data from the Tame may be examined, (once it is released) to measure any increase in rate of level increase.  
 
-It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.
+It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.  
 
-The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.
-
-
-The "spurious" massive event between the 16th and 18th March 2013 - where flood levels were measure at >3000 cm appears to be a real event with real very high levels of flooding. Whist the gauge may have over estimated the level, it appears well above previous highs down stream at Wagon gauge at Mossley with 70 cm above the flood level.
-
-The river authority need to explain what caused the error, if there was one and what flood level happened, as it is the largest event seen while monitoring has taken place..
-
-Because this is a real event, the Flood risk situation at Uppermill and Mossley is worse than previously reported i.e. inevitable, just a matter of time.
-
-#### Planner should be taking action as designated by the Environment Agency report [Ref6]
-
-    11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.
+The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.  
 
 
+The "spurious" massive event between the 16th and 18th March 2013 - where flood levels were measure at >3000 cm appears to be a real event with real very high levels of flooding. Whist the gauge may have over estimated the level, it appears well above previous highs down stream at Wagon gauge at Mossley with 70 cm above the flood level.  
 
-### Method
+The river authority need to explain what caused the error, if there was one and what flood level happened, as it is the largest event seen while monitoring has taken place..  
 
-Gauge data for Uppermill Tame river was obtained from :   [Ref1] : riverlevels.uk
+Because this is a real event, the Flood risk situation at Uppermill and Mossley is worse than previously reported i.e. inevitable, just a matter of time.  
+
+#### Planner should be taking action as designated by the Environment Agency report [Ref6]  
+
+11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.
+
+
+
+### Method  
+
+Gauge data for Uppermill Tame river was obtained from :   [Ref1] : riverlevels.uk  
 
 This data contains an average level for the day and a maximum and minimum level for the day.  
 
-The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]
+The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]  
 
-The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.
+The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.  
 
-Rain data from [Ref3] was analysed and compared with flood levels.
+Rain data from [Ref3] was analysed and compared with flood levels.  
 
 
 ### Observations :
 
-The maximum river level shows there are numerous flood level event already a year. These flood levels are consistently much higher than the preceding level, i.e. are of a semi flash flood type. There is a close relation to the rain and river level, i.e. little buffer or soak to the rain fall. 
+The maximum river level shows there are numerous flood level event already a year. These flood levels are consistently much higher than the preceding level, i.e. are of a semi flash flood type. There is a close relation to the rain and river level, i.e. little buffer or soak to the rain fall.  
 
 Analysis shows the change in river level per day has slightly decreased since 2012.  Yet, the level of floods has increased (apart from one outlier flood in 2013) ....   
 
-The long term charts shows the significant numbers of flood conditions of the Tame. There have been 5 days when levels over 89cm in 8 years.
+The long term charts shows the significant numbers of flood conditions of the Tame. There have been 5 days when levels over 89cm in 8 years.  
 
-The recent flood condition of the 17/3/2019 was the latest. 
+The recent flood condition of the 17/3/2019 was the latest.  
 
-The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent high.
+The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent high.  
 
-Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indicating increased run off speed.
+Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indicating increased run off speed.  
 
-The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].
+The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].  
 
-The Daily level chart for 20th March 2019 shows near vertical increase in river level. This flood was observed to occur during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.
+The Daily level chart for 20th March 2019 shows near vertical increase in river level. This flood was observed to occur during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.  
 
-If the reduction in river level change per day could be less rain or the effect of drains, or drought.
+If the reduction in river level change per day could be less rain or the effect of drains, or drought.  
 
-1. These do not ameliorate  the speed of build up of water and maximum flood height
-2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.
+1. These do not ameliorate  the speed of build up of water and maximum flood height.  
+2. If these drains fail due to blockage , it is liable to quickly cause disastrous flood heights as any increase would be.  
 
-see [Ref4] Where flood was caused by blocked drains.
+see [Ref4] Where flood was caused by blocked drains.  
 
-3. If drought is the cause then if rainfall levels returned to normal there would be more floods.
+3. If drought is the cause then if rainfall levels returned to normal there would be more floods.  
 
-The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.
+The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.  
 
-The rate of change chart shows generally an increase in level of rate of flood increase over the period 2012 - 2019, consistent with loss of soak.
+The rate of change chart shows generally an increase in level of rate of flood increase over the period 2012 - 2019, consistent with loss of soak.  
 
 
-#### Tame river, change in level during 17/3/2019 flood level incident
+#### Tame river, change in level during 17/3/2019 flood level incident.  
 
 ![alt tag](charts/TameRawData17-3-2019.png)  
 
 
-#### Tame River - Number of days at each level  2012 - 2019
+#### Tame River - Number of days at each level  2012 - 2019  
 
 ![alt tag](charts/TameDaysAtLevel.png)  
 
 
-#### Tame River - Rate of change of level
+#### Tame River - Rate of change of level  
 
 ![alt tag](charts/TameMaxRateofChangePWeek.png)  
 
@@ -91,19 +91,19 @@ The rate of change chart shows generally an increase in level of rate of flood i
 
 ### Conclusions :
 
-It is very concerned to observe that most of the new "Maximum river level recorded events" have happened since December 2015.
+It is very concerned to observe that most of the new "Maximum river level recorded events" have happened since December 2015.  
 
 From 2012 - 2016 there was only 1 highest river level recorded event at Uppermill.  
 
-From 2016 there are 8 events above that level, 3 being highest recorded levels.
+From 2016 there are 8 events above that level, 3 being highest recorded levels.  
 
-This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.
+This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.  
 
-Climate change should have reduced the level of floods, but hasn't. However, it, or variations in weather patterns, do change the frequency of floods. 
+Climate change should have reduced the level of floods, but hasn't. However, it, or variations in weather patterns, do change the frequency of floods.  
 
-The height of floods is historically high, whilst rainfall and level are historically normal to low.
+The height of floods is historically high, whilst rainfall and level are historically normal to low.  
 
-### Further work : 
+### Further work :  
 
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
 
@@ -114,13 +114,13 @@ Data could also be cross related to historical developments levels in the area, 
 
 
 
-### Results and charts :
+### Results and charts :  
 
 
 This chart shows the maximum river levels per day.  
 
 
-#### Tame Maximum Levels per day, 90cm = Flood risk  
+#### Tame Maximum Levels per day, 90cm = Flood risk   
 
 ![alt tag](charts/TameMaxLevelPDay.png)  
 
@@ -179,6 +179,6 @@ This chart shows the maximum river levels per day.
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
 [Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
 [Ref3] : https://www.metoffice.gov.uk/climate/uk/summaries/datasets#yearOrdered  
-[Ref4] : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
-[Ref5] : Mossley Flood Risk : https://github.com/wrapperband/Tame-Mossley-FloodRisk
-[Ref6] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf
+[Ref4] : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/  
+[Ref5] : Mossley Flood Risk : https://github.com/wrapperband/Tame-Mossley-FloodRisk  
+[Ref6] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
