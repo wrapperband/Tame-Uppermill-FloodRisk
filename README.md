@@ -24,7 +24,7 @@ Because this is a real event, the Flood risk situation at Uppermill and Mossley 
 
 #### Planner should be taking action as designated by the Environment Agency report [Ref6]  
 
-*11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.*
+*Quote 11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.*
 
 
 
