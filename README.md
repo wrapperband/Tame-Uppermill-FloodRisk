@@ -5,16 +5,29 @@
 
 ### Summery  
 
+
+**Rate of change of river Tame level increasing, causing flood danger**
+
+The rate of change of river level is increasing during high river events both at Uppermill and can be clearly seen at Mossley, where the river is deeper. The increase whilst rainfall has decreased shows the increasing flood risk and danger has nor been addressed by planning policies as directed by the Environment agency.
+
+
+**Flood warnings and floods occur**
+
 The long term river Tame level data shows the Tame has flood risk levels on a consistent basis. The flood levels were set to indicate danger.  
+
+**Recent flood happened very fast**
 
 The daily chart for 17/3/2019 shows the problem with speed of run off, with the steepness of the increase in level. Further work is required to quantify and ameliorate that risk.  
 
 Raw data from the Tame may be examined, (once it is released) to measure any increase in rate of level increase.  
 
+**Rainfall does not account for changes**
+
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.  
 
 The long term analysis of North west rainfall shows there is a significant risk of greater levels of rain in the past, in the 1930s and 1940s there could be 5 >150 mm per month, rainfall events per year.  This shows flooding incidence are currently low and flooding events of greater magnitude are inevitable.  
 
+**Spurious? flood event 2013, not counted in analysis**
 
 The "spurious" massive event between the 16th and 18th March 2013 - where flood levels were measure at >3000 cm appears to be a real event with real very high levels of flooding. Whist the gauge may have over estimated the level, it appears well above previous highs down stream at Wagon gauge at Mossley with 70 cm above the flood level.  
 
@@ -98,17 +111,23 @@ This chart shows the Rate of change above 200 (cm/d/m) more clearly. Again the r
 ![alt tag](charts/TameUppermillRateofLevelChangePerMonthGrtr200cm.png)  
 
 
-#### Tame river, change in level during 17/3/2019 flood level incident.  
+#### Tame river Mossley, Rate of level change > 400cm/d/m.    
+
+![alt tag](https://raw.githubusercontent.com/wrapperband/Tame-Mossley-FloodRisk/master/charts/TameMossleyRateofLevelChangePerMonthGrtr400cm.png)  
+
+
+
+#### Tame river Uppermill, Real time change in level during 17/3/2019 flood level incident.  
 
 ![alt tag](charts/TameRawData17-3-2019.png)  
 
 
-#### Tame River - Number of days at each level  2012 - 2019  
+#### Tame River  Uppermill - Number of days at each level  2012 - 2019  
 
 ![alt tag](charts/TameDaysAtLevel.png)  
 
 
-#### Tame River - Rate of change of level  
+#### Tame River Uppermill - Rate of change of level  
 
 ![alt tag](charts/TameMaxRateofChangePWeek.png)  
 
