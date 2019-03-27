@@ -21,7 +21,7 @@ The daily chart for 17/3/2019 shows the problem with speed of run off, with the 
 
 Raw data from the Tame may be examined, (once it is released) to measure any increase in rate of level increase.  
 
-**Rainfall does not account for changes**
+**Rainfall does not account for changes in level and rate of change**
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall.  
 
@@ -35,9 +35,13 @@ The river authority need to explain what caused the error, if there was one and 
 
 Because this is a real event, the Flood risk situation at Uppermill and Mossley is worse than previously reported i.e. inevitable, just a matter of time.  
 
+**Over development of Saddleowrth, not being addressed**
+
 #### Planner should be taking action as designated by the Environment Agency report [Ref6]  
 
 *Quote 11. Flood risk is increasing, perhaps substantially, so Planners, Emergency Planners, Asset Managers and others will need to mitigate this  through a mix of collaborative working, planning policies, use of ‘worst case’ scenarios,development of contingency plans, and some detailed analysis.*
+
+Wheras, [Ref9] (Saddleworth Long term Traffic analysis) shows there has been a significant increase in traffic and therefore development,  over the monitoring period.
 
 
 
@@ -135,6 +139,8 @@ This chart shows the Rate of change above 200 (cm/d/m) more clearly. Again the r
 
 ### Conclusions :
 
+**Maximum river events are recent / increasing**
+
 It is very concerned to observe that most of the new "Maximum river level recorded events" have happened since December 2015.  
 
 From 2012 - 2016 there was only 1 highest river level recorded event at Uppermill.  
@@ -143,16 +149,23 @@ From 2016 there are 8 events above that level, 3 being highest recorded levels.
 
 This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.  
 
+**Climate change does not account for river changes**
+
 Climate change should have reduced the level of floods, but hasn't. However, it, or variations in weather patterns, do change the frequency of floods.  
 
 The height of floods is historically high, whilst rainfall and level are historically normal to low.  
 
 ### Further work :  
 
+**Monitor raw data, not daily**
+
 Raw data from the Tame may be examined, once it is released, to measure any increase in rate of level increase.  
+
+**Cross reference real time rain / rate of rain fall**
 
 It may also be possible to extract more information from the daily data by cross referencing daily rainfall data, which may show higher levels for the same rain fall as a result of rain fall "soak" reduction and other developments.  
 
+**Cross reference river levels to building  developments**
 
 Data could also be cross related to historical developments levels in the area, however requests for development data showed that is not made available..  
 
@@ -226,3 +239,6 @@ This chart shows the maximum river levels per day.
 [Ref4] : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/  
 [Ref5] : Mossley Flood Risk : https://github.com/wrapperband/Tame-Mossley-FloodRisk  
 [Ref6] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
+[Ref7] : Open Condition Monitoring : https://github.com/wrapperband/Open-Condition-Monitoring  
+[Ref8] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
+[Ref9] : Saddleworth traffic increase case study : https://github.com/wrapperband/OpenTrafficSurvey/tree/master/CaseStudies
