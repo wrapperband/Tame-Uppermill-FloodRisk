@@ -43,21 +43,35 @@ Rain data from [Ref3] was analysed and compared with flood levels.
 
 ### Observations :
 
+**Flood events already occur regularly**
+
 The maximum river level shows there are numerous flood level event already a year. These flood levels are consistently much higher than the preceding level, i.e. are of a semi flash flood type. There is a close relation to the rain and river level, i.e. little buffer or soak to the rain fall.  
 
-Analysis shows the change in river level per day has slightly decreased since 2012.  Yet, the level of floods has increased (apart from one outlier flood in 2013) ....   
+**Flood levels are increasing**
+
+The level of floods has increased (apart from one outlier flood in 2013), despite lower rainfalls ....   
+
+**Rainfall has been a lot worse historically** 
 
 The long term charts shows the significant numbers of flood conditions of the Tame. There have been 5 days when levels over 89cm in 8 years.  
 
+**A high flood warning conditions are still occurring**
+
 The recent flood condition of the 17/3/2019 was the latest.  
 
+**Flood level trend is to be higher**
+
 The maximum level chart shows that the frequency of floods is current low. However, the level of floods is consistent high.  
+
+**Flood level trend is to be quicker**
 
 Analysis of the number of flood conditions shows the river level is generally low, then shoots up metres during a flood. Again indicating increased run off speed.  
 
 The data analysed is from daily averages of the raw data - it underestimates the rate of change. This chart shows the raw change for one day. The raw data should be made available at some stage.  [Ref1].  
 
 The Daily level chart for 20th March 2019 shows near vertical increase in river level. This flood was observed to occur during the period it was raining. This shows the current level of "soak" is deficient, since the river went increase from 0.2 Metres to nearly 1 metre in a few hours. Then subsided after the rain stopped.  
+
+**Observations on inconsistent rain and river level anomalies**
 
 If the reduction in river level change per day could be less rain or the effect of drains, or drought.  
 
@@ -70,7 +84,18 @@ see [Ref4] Where flood was caused by blocked drains.
 
 The Analysis of North West rainfall per month from 2012 to 2019 also shows that the normal level of rain is 100 mm per Month and an increase to 150 to 200 mm per Month can cause flooding conditions. This shows once more a disproportional flooding response from relatively minor, or at least usual, variations in rain fall.  
 
-The rate of change chart shows generally an increase in level of rate of flood increase over the period 2012 - 2019, consistent with loss of soak.  
+**Rate of River Level change is increasing**
+
+The rate of river level charts for Uppermill show a visible increase in level. However , the daily chart underestimates the actual real time flow, due to the quicker flow than (say) lower down stream at Mossley. It does show an increase when the lower rainfall is taken into account.
+
+The rate of river level charts change charts for Uppermill and Mossley [Ref5] shows generally an increase in level of rate of flood increase over the period 2012 - 2019, consistent with loss of soak.  
+
+This chart shows the Rate of change above 200 (cm/d/m) more clearly. Again the recent flood would be more significant on higher resolution samples.
+
+
+#### Tame Uppermill river, Rate of level change > 200cm/d/m.    
+
+![alt tag](charts/TameUppermillRateofLevelChangePerMonthGrtr200cm.png)  
 
 
 #### Tame river, change in level during 17/3/2019 flood level incident.  
