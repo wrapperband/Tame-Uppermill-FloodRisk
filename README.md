@@ -111,7 +111,9 @@ The rate of river level charts change charts for Uppermill and Mossley [Ref5] sh
 
 This chart shows the Rate of change above 200 (cm/d/m) more clearly. Again the recent flood would be more significant on higher resolution samples.
 
-Similarly, the normalised aceleration of the river level change shows a general increase in level of 10% - 20% and an increased frequency of high rates of change of level rate of change.  Again, this combined with the low to normal rainfall, indicates a deteriorating "soak" condition, or increased  "run off" speeds, feeding the river.
+Whilst not as obvious as the velocity change, similarly, the normalised acceleration of the river level change shows a general increase in level of 10% - 20%, from 2012 to 2019 and an increased frequency of high rates of change of level rate of change.  This can be clearly see if one counts the incidence above 150 (cm/d/d), ignoring the 2013 levels.
+
+Again, this combined with the low to normal rainfall, indicates a deteriorating "soak" condition, or increased  "run off" speeds, feeding the river being the difference and cause of increased frequency and height of river level acceleration.
 
 
 #### Tame Uppermill river, Rate of level change > 200cm/d/m.    
