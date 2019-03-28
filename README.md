@@ -53,9 +53,11 @@ This data contains an average level for the day and a maximum and minimum level 
 
 The Flood data for 17/3/2019 raw data was obtained Government flood warning information service. [Ref2]  
 
-The data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.  
+The river level data was inspected and a number of incorrect gauge readings were deleted. These were identified by the number 99.9999 and were understood to be when the gauge had failed.
 
-Rain data from [Ref3] was analysed and compared with flood levels.  
+The Uppermill river gauge data was input into a spreadsheet and various charts were  produced to show various aspects of the river level data, see results and spreadsheet charts tab.  
+
+Rain data from [Ref3] was analysed and compared with river and flood levels.  
 
 
 ### Observations :
@@ -109,16 +111,22 @@ The rate of river level charts change charts for Uppermill and Mossley [Ref5] sh
 
 This chart shows the Rate of change above 200 (cm/d/m) more clearly. Again the recent flood would be more significant on higher resolution samples.
 
+Similarly, the normalised aceleration of the river level change shows a general increase in level of 10% - 20% and an increased frequency of high rates of change of level rate of change.  Again, this combined with the low to normal rainfall, indicates a deteriorating "soak" condition, or increased  "run off" speeds, feeding the river.
+
 
 #### Tame Uppermill river, Rate of level change > 200cm/d/m.    
 
 ![alt tag](charts/TameUppermillRateofLevelChangePerMonthGrtr200cm.png)  
 
 
-#### Tame river Mossley, Rate of level change > 400cm/d/m.    
+#### Tame river Uppermill, Rate of level change > 400cm/d/m.    
 
 ![alt tag](https://raw.githubusercontent.com/wrapperband/Tame-Mossley-FloodRisk/master/charts/TameMossleyRateofLevelChangePerMonthGrtr400cm.png)  
 
+
+#### Tame Uppermill river, Accleration  of river level change.    
+
+![alt tag](charts/TameUppermillAccelerationofLevelChangePerDay.png)  
 
 
 #### Tame river Uppermill, Real time change in level during 17/3/2019 flood level incident.  
