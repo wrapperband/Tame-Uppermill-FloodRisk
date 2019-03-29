@@ -227,6 +227,12 @@ This chart shows the maximum river levels per day.
 ![alt tag](charts/RainFallNorthWest-1910-2019-150mm.png)  
 
 
+#### [Ref10] Gaugemap March 2019 - Tame Flood levels / Month.      
+
+![alt tag](charts/TameUppermillMarchFlood1Month.png)  
+
+
+
 ### Flood images
 
 #### River Tame at Uppermill getting very high 2012. Picture: Stuart Littleford.
@@ -251,4 +257,5 @@ This chart shows the maximum river levels per day.
 [Ref6] North West river basin district Flood Risk Management Plan 2015 to 2021 : https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/507122/LIT_10210_NORTH_WEST_FRMP_PART_B.pdf  
 [Ref7] : Open Condition Monitoring : https://github.com/wrapperband/Open-Condition-Monitoring  
 [Ref8] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
-[Ref9] : Saddleworth traffic increase case study : https://github.com/wrapperband/OpenTrafficSurvey/tree/master/CaseStudies
+[Ref9] : Saddleworth traffic increase case study : https://github.com/wrapperband/OpenTrafficSurvey/tree/master/CaseStudies  
+[Ref10] : Gauge map of Uppermill : https://www.gaugemap.co.uk/#!Map/Summary/546/554  
