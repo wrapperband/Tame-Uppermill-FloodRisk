@@ -157,6 +157,10 @@ From 2012 - 2016 there was only 1 highest river level recorded event at Uppermil
 
 From 2016 there are 8 events above that level, 3 being highest recorded levels.  
 
+The recent flood level of the Tame at Uppermill - March 2019 occurred with ~75mm of rain per month. In the recent past rain levels for Oldham have been >350mm per Month. Viewing the chart of the recent flood it is apparent that any continuation of the rain on that day would have caused a substantial flood, with higher levels than 1m (0.9m warning).
+
+It was only through abnormal luck and weather that the recent flood levels of the Tame at Uppermill  March 2019 did not result serious flooding.
+
 This proves beyond all doubt that less water is causing the same floods height levels.  This is an analysis of the Average level - not the Maximum level. This indicates the reduction in soak of the river Tame is causing an increased risk and severity of floods.  
 
 **Climate change does not account for river changes**
