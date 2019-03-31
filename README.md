@@ -270,6 +270,6 @@ This chart shows the maximum river levels per day.
 [Ref8] : Maintenance Allocation Practices and Techniques : https://wrapperband.github.io/Open-Condition-Monitoring/MaintenanceTechniquesAnalysis/  
 [Ref9] : Saddleworth traffic increase case study : https://github.com/wrapperband/OpenTrafficSurvey/tree/master/CaseStudies  
 [Ref10] : Gauge map of Uppermill : https://www.gaugemap.co.uk/#!Map/Summary/546/554  
-[Ref11] : Flood in Dobcross : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/
-[Ref12] : Flooding in Uppermill : https://www.youtube.com/watch?v=jCPIq5jEIDQ
-[Ref13] : Flooding in Greenfield : https://www.youtube.com/watch?v=atjfpxU_AU8
+[Ref11] : Flood in Dobcross : http://www.saddleworthlife.com/dobcross-pub-flooded-due-to-blocked-drains/  
+[Ref12] : Flooding in Uppermill : https://www.youtube.com/watch?v=jCPIq5jEIDQ  
+[Ref13] : Flooding in Greenfield : https://www.youtube.com/watch?v=atjfpxU_AU8  
