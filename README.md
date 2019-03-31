@@ -257,8 +257,16 @@ This chart shows the maximum river levels per day.
 
 ![alt tag](FloodImages/Delph.flood.2015d.png) 
 
+#### Flood at Dobcross [Ref11] blocked drains
+
+![alt tag](FloodImages/Flood at Dobcross-WP_000789SaddleworthLife.jpg) 
+
+#### Flood at Delph flood + blocked drains
+
+![alt tag](FloodImages/Delph.flood.2015d.png) 
 
 
+### References
 
 [Ref1] : https://flood-warning-information.service.gov.uk/station/5143  
 [Ref2] : https://riverlevels.uk/tame-saddleworth-uppermill#.XJImV4WnyV5  
